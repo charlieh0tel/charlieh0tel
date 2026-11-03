@@ -3,9 +3,9 @@
 **Chief Bottle Washer, [Murgatroid Heavy Industries, Ltd.](https://www.murgatroid.com/)**
 Mountain View, California | Amateur radio **AI6KG**
 
-I build tools for precision timing, radio, and the lab bench, mostly in
-Rust, with Python, C, and C++ where they fit.  I also reverse-engineer
-old hardware and firmware so it keeps working.
+I build tools for precision timing, radio, and electrical engineering,
+mostly in Rust, with Python, C, and C++ where they fit.  I also
+reverse-engineer old hardware and firmware so it keeps working.
 
 ---
 
@@ -26,11 +26,12 @@ old hardware and firmware so it keeps working.
 | [tamago](https://github.com/charlieh0tel/tamago) | Eggbeater antenna dimension generator with nec2c in the tuning loop |
 | [endfed](https://github.com/charlieh0tel/endfed) | End-fed random-wire length calculator, and the NEC work behind it |
 
-### Lab bench
+### Electrical engineering
 
 | Project | What it is |
 |---|---|
 | [ee-instruments](https://github.com/charlieh0tel/ee-instruments) | Instrument drivers for lab equipment |
+| [ee-dev-process](https://github.com/charlieh0tel/ee-dev-process) | PCB design and assembly checklists: schematic, layout, and library review, release package, and MCO |
 | [ut325f-rs](https://github.com/charlieh0tel/ut325f-rs) | Rust tools for the UNI-T UT325F thermometer |
 | [temper](https://github.com/charlieh0tel/temper) | PCsensor TEMPerGold/TEMPerHUM: Rust library, CLI, and Linux IIO daemon |
 | [labtracer](https://github.com/charlieh0tel/labtracer) | Python driver for Jeio Tech lab ovens (LabTracer RS-232 protocol) |

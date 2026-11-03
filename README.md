@@ -1,6 +1,6 @@
 # Christopher Hoover
 
-**Chief Bottle Washer, [Murgatroid Heavy Industries, Ltd.](https://www.murgatroid.com/)**
+**Chief Bottle Washer, [Murgatroid Heavy Industries, Ltd.](https://www.murgatroid.com/)**\
 (Chief Engineer, [Impulse Labs](https://www.impulselabs.com/))\
 Mountain View, California | Amateur radio **AI6KG**
 
@@ -26,6 +26,7 @@ reverse-engineer old hardware and firmware so it keeps working.
 | [asl-dmr-bridge](https://github.com/charlieh0tel/asl-dmr-bridge) | AllStarLink to DMR bridge |
 | [tamago](https://github.com/charlieh0tel/tamago) | Eggbeater antenna dimension generator with nec2c in the tuning loop |
 | [endfed](https://github.com/charlieh0tel/endfed) | End-fed random-wire length calculator, and the NEC work behind it |
+| [sinad_meter](https://github.com/charlieh0tel/sinad_meter) | Software SINAD meter for receiver sensitivity testing, from a sound card or Analog Discovery 3 |
 
 ### Electrical engineering and lab tools
 
@@ -42,7 +43,7 @@ reverse-engineer old hardware and firmware so it keeps working.
 
 | Project | What it is |
 |---|---|
-| [deb-workflows](https://github.com/charlieh0tel/deb-workflows) | Reusable GitHub Actions workflows for building Rust `.deb` packages |
+| [deb-workflows](https://github.com/charlieh0tel/deb-workflows) | Reusable GitHub Actions workflows: CI for Rust, Python, and Go, dependency auditing, and binary and `.deb` releases |
 | [apt-repo](https://github.com/charlieh0tel/apt-repo) | APT repository hosted on GitHub Pages |
 | [jackerymon](https://github.com/charlieh0tel/jackerymon) | Monitor for Jackery power stations |
 | [renogymon](https://github.com/charlieh0tel/renogymon) | Monitor for Renogy power gear |

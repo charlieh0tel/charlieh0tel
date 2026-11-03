@@ -1,6 +1,7 @@
 # Christopher Hoover
 
 **Chief Bottle Washer, [Murgatroid Heavy Industries, Ltd.](https://www.murgatroid.com/)**
+(Chief Engineer, [Impulse Labs](https://www.impulselabs.com/))\
 Mountain View, California | Amateur radio **AI6KG**
 
 I build tools for precision timing, radio, and electrical engineering,
@@ -26,7 +27,7 @@ reverse-engineer old hardware and firmware so it keeps working.
 | [tamago](https://github.com/charlieh0tel/tamago) | Eggbeater antenna dimension generator with nec2c in the tuning loop |
 | [endfed](https://github.com/charlieh0tel/endfed) | End-fed random-wire length calculator, and the NEC work behind it |
 
-### Electrical engineering
+### Electrical engineering and lab tools
 
 | Project | What it is |
 |---|---|
